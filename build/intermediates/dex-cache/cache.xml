@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_d0ffbf430f99c09d71f1d9c1273a24fdcfc1f23c/classes.dex" />
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_8d6490b7714acfe55e8cb8cec603dc082ed52835/classes.dex" />
     </item>
     <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_31a64ecb69e1725415260296a23c95abfc8123f6/classes.dex" />
-    </item>
-    <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="6e56574c3205040dbc30d9d8b42b12eeb4b9a733">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_95a2d868c3e8f8fded3cfb8b5ee9d56fa75bcfb2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_31f4fb2646ade5c9290fdc415f5f2118418d3849/classes.dex" />
-    </item>
-    <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_2e9b1f41d5c7e113fb3dfd59f3308798b85b5672/classes.dex" />
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_25acac5099f6ddf4775791f22388918c161f51c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_680f8629ed5d8c76024d16e5271239122adcc1e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf1aa19df6bb000f12fe4b2fbf0a1f8397c62b27">
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6da180c575211e86292e21e66a9de395e7ede18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_67e6116e2e7cfdb2dabd8d971c6eb7fedb798d14/classes.dex" />
     </item>
     <item
         jar="/Users/huynhducthanhphong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_0f0c78ee413164bdeacee88183eef41de9dc9674/classes.dex" />
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_0f0c78ee413164bdeacee88183eef41de9dc9674/classes.dex" />
     </item>
     <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="524d6ef6b75c744c89e1467b69973e45a0e9d87b">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7aa311f7a689df4fc12e22c5c33474c31840191e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_13464c39255bbd22e129a223a4d7a25cad7dd5aa/classes.dex" />
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_94526a4f7f05d0c58c044320715c0cc3a2fc5047/classes.dex" />
+    </item>
+    <item
+        jar="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2454fc8d2dd97be554478fce6c3508f22c3cecf3">
+        <dex dex="/Users/huynhducthanhphong/AndroidStudioProjects/project mẫu/SpeechApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_02335068a29eaecd4ffacba6219bad8b427bf753/classes.dex" />
     </item>
 
 </items>
